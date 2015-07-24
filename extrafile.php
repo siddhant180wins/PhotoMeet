@@ -1,4 +1,4 @@
 This is just an extra file.!
-Now this will be the not stashed content in friends1.!
+Totally removed the line.. Nothing will be there!
 CHECK 
 
